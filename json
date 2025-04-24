@@ -1,19 +1,23 @@
-https://raw.githubusercontent.com/chintugs96/quiz8/refs/heads/main/arts.jpeg
-https://raw.githubusercontent.com/chintugs96/quiz8/refs/heads/main/food.jpeg
-https://raw.githubusercontent.com/chintugs96/quiz8/refs/heads/main/geo.jpeg
-https://raw.githubusercontent.com/chintugs96/quiz8/refs/heads/main/science.jpg
-https://raw.githubusercontent.com/chintugs96/quiz8/refs/heads/main/plants.jpg
-https://raw.githubusercontent.com/chintugs96/quiz8/refs/heads/main/space.jpg
-https://raw.githubusercontent.com/chintugs96/quiz8/refs/heads/main/sport.jpeg
-https://raw.githubusercontent.com/chintugs96/quiz8/refs/heads/main/technology%20.jpg
-https://raw.githubusercontent.com/chintugs96/quiz8/refs/heads/main/world%20history%20%20copy.jpg
+{
+"Arts and culture": https://raw.githubusercontent.com/chintugs96/quiz8/refs/heads/main/arts.jpeg,
+"Food": https://raw.githubusercontent.com/chintugs96/quiz8/refs/heads/main/food.jpeg,
+"Geography": https://raw.githubusercontent.com/chintugs96/quiz8/refs/heads/main/geo.jpeg,
+"Science": https://raw.githubusercontent.com/chintugs96/quiz8/refs/heads/main/science.jpg,
+"Plants and animals": https://raw.githubusercontent.com/chintugs96/quiz8/refs/heads/main/plants.jpg,
+"Space": https://raw.githubusercontent.com/chintugs96/quiz8/refs/heads/main/space.jpg,
+"Sports": https://raw.githubusercontent.com/chintugs96/quiz8/refs/heads/main/sport.jpeg,
+"Technology": https://raw.githubusercontent.com/chintugs96/quiz8/refs/heads/main/technology%20.jpg
+"World History": https://raw.githubusercontent.com/chintugs96/quiz8/refs/heads/main/world%20history%20%20copy.jpg
+}
 
-https://raw.githubusercontent.com/chintugs96/quiz8/refs/heads/main/jokic.jpeg
-https://raw.githubusercontent.com/chintugs96/quiz8/refs/heads/main/curry.jpeg
-https://raw.githubusercontent.com/chintugs96/quiz8/refs/heads/main/kd%20copy.jpg
-https://raw.githubusercontent.com/chintugs96/quiz8/refs/heads/main/lebron%20copy.jpg
-https://raw.githubusercontent.com/chintugs96/quiz8/refs/heads/main/giannis.jpeg
-https://raw.githubusercontent.com/chintugs96/quiz8/refs/heads/main/luka.jpeg
-https://raw.githubusercontent.com/chintugs96/quiz8/refs/heads/main/jimmy.jpg
-https://raw.githubusercontent.com/chintugs96/quiz8/refs/heads/main/JT.jpg
-https://raw.githubusercontent.com/chintugs96/quiz8/refs/heads/main/AD%20.jpg
+{
+"Nikola Jokic": https://raw.githubusercontent.com/chintugs96/quiz8/refs/heads/main/jokic.jpeg,
+"Stephen Curry": https://raw.githubusercontent.com/chintugs96/quiz8/refs/heads/main/curry.jpeg,
+"Kevin Durant": https://raw.githubusercontent.com/chintugs96/quiz8/refs/heads/main/kd%20copy.jpg,
+"Lebron James": https://raw.githubusercontent.com/chintugs96/quiz8/refs/heads/main/lebron%20copy.jpg,
+"Giannis Antetokounmpo": https://raw.githubusercontent.com/chintugs96/quiz8/refs/heads/main/giannis.jpeg,
+"Luka Doncic": https://raw.githubusercontent.com/chintugs96/quiz8/refs/heads/main/luka.jpeg,
+"Jimmy Butler": https://raw.githubusercontent.com/chintugs96/quiz8/refs/heads/main/jimmy.jpg,
+"Jayson Tatum": https://raw.githubusercontent.com/chintugs96/quiz8/refs/heads/main/JT.jpg,
+"Anthony Davis": https://raw.githubusercontent.com/chintugs96/quiz8/refs/heads/main/AD%20.jpg
+}
